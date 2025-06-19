@@ -50,11 +50,26 @@ npm run dev
 
 ----
 
-### Homepage
-![Homepage](screenshots/homepage.png)
+### Homepage Before Login!
+![Homepage](Screenshort/HomePage_After.png)
 
-### Tutorials Page
-![Tutorials](screenshots/tutorials.png)
+### Registrations Page!]
+![Registration](Screenshort/Registration.png)
+
+### Login Page!]
+![Login](Screenshort/LoginPage.png)
+
+### HomePage After Login!]
+![Homepage](Screenshort/HomePage_After.png)
+
+### Tutorials Page Without Quiz 
+![Tutorials](Screenshort/TopicPagewithoutquiz.png)
+
+### Tutorials Page With Quiz 
+![Tutorials With Quiz](Screenshort/TopicPagewithquiz.png)
+
+### Progress Page!
+![Progress Page](Screenshort/TopicPagewithoutquiz.png)
 
 ### SQL Query Editor
-![SQL Editor](screenshots/query_editor.png)
+![SQL Editor](Screenshort/SQL_EDITOR.png)
